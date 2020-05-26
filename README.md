@@ -1,2 +1,3 @@
-# iff-reader
-IFF (HP International File Format) reading
+Parsers for
+HP Journey Planner
+International File Format 4.2.4
